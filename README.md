@@ -1,6 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXDG3Dgvr7G0w8fNiqdq2dOO7vP-4n3Llg&s"  />
+</div>
+
+###
 
 <p align="left">My name is David Reyes and I'm a Systems and Computng undergraduate studen, from Universidad de los Andes in Bogotá, Colombia. </p>
 
