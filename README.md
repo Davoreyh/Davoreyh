@@ -37,7 +37,11 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://cdn-icons-png.flaticon.com/512/919/919830.png"  />
+  <img width="12" src="https://cdn-icons-png.flaticon.com/512/919/919830.png"  />
+</div>
+
+<div align="center">
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  />
 </div>
 
 ###
