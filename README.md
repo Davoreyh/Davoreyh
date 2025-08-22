@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is David Reyes and I'm a Systems and Computng undergraduate studen, from Universidad de los Andes in Bogotá, Colombia. </p>
 
 ###
 
