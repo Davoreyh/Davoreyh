@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is David Reyes and I'm a Systems and Computng undergraduate studen, from Universidad de los Andes in Bogotá, Colombia. </p>
+<p align="left">My name is David Reyes and I'm a Systems and Computng undergraduate student, from Universidad de los Andes in Bogotá, Colombia. </p>
 
 ###
 
