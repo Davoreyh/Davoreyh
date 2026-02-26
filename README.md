@@ -17,8 +17,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40" alt="python logo"  />
   <img width="12" />
 
